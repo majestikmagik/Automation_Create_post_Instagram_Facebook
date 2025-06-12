@@ -9,7 +9,7 @@ This Make.com scenario automates the process of posting AI-generated images to I
 
 **Email:** amosmiller0312@gmail.com  
 
-<p align="center"> <img src="./images/create_post_ig_fb.jpg" alt="workflow"/> </p>
+<p align="center"> <img src="./images/Create_post_IG_FB.jpg" alt="workflow"/> </p>
 
 ## 📥 Step 1: Import the Scenario
 Go to Make.com.
